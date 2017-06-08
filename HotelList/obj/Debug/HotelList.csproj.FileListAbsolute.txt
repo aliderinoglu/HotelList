@@ -1,0 +1,5 @@
+C:\Users\ali.derinoglu\Documents\Visual Studio 2013\Projects\HotelList\HotelList\bin\Debug\HotelList.exe.config
+C:\Users\ali.derinoglu\Documents\Visual Studio 2013\Projects\HotelList\HotelList\bin\Debug\HotelList.exe
+C:\Users\ali.derinoglu\Documents\Visual Studio 2013\Projects\HotelList\HotelList\bin\Debug\HotelList.pdb
+C:\Users\ali.derinoglu\Documents\Visual Studio 2013\Projects\HotelList\HotelList\obj\Debug\HotelList.exe
+C:\Users\ali.derinoglu\Documents\Visual Studio 2013\Projects\HotelList\HotelList\obj\Debug\HotelList.pdb
